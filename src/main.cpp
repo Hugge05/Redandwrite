@@ -24,6 +24,11 @@ namespace Lib
 
 	std::string filepath1 = "minfil.txt";
 
+
+	void ReadFromFile()
+	{
+
+	}
 }
 
 
